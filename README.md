@@ -1,8 +1,6 @@
 # codigo-final-maratona-discover
 Projeto feito no Maratona Discover da RocketSeat. Utilizando JavaScript, HTML e CSS.
-<h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src=".github/logo.svg" width="220px" />
-</h1>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,9 +17,7 @@ Projeto feito no Maratona Discover da RocketSeat. Utilizando JavaScript, HTML e 
 
 <br>
 
-<p align="center">
-  <img alt="dev.finances" src=".github/devfinances.png" width="100%">
-</p>
+
 
 ## 🚀 Tecnologias
 
